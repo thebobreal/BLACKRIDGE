@@ -39,3 +39,9 @@ This project is not just a game — it is a technical learning journey.
 ---
 
 ## 🏗 Project Structure
+![Engine](https://img.shields.io/badge/Engine-Godot%204-blue)
+![Language](https://img.shields.io/badge/Language-GDScript-purple)
+![Platform](https://img.shields.io/badge/Platform-Windows%2011-lightgrey)
+![Status](https://img.shields.io/badge/Status-In%20Development-green)
+![Version](https://img.shields.io/badge/Version-0.1--Prototype-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
